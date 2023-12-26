@@ -1,4 +1,25 @@
 .game-card {
     height: 100vh;
-    font-family: 'Open Sans', monospace;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 900px;
+    background: url(https://images.unsplash.com/photo-1699990250573-98cd46c2c864?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) bottom no-repeat;
+    background-size: cover;
+}
+
+h3 {
+    background-color: #dfc76c;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+    background-color: #dfc76c;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
 }
