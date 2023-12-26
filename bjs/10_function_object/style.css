@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 900px;
+    background: url(https://images.unsplash.com/photo-1703002917693-e51692232c81?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) bottom no-repeat;
+    background-size: cover;
+}
+
+h3 {
+    color: #7e6a21;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4 {
+    color: #7e6a21;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+h5 {
+    color: #7e6a21;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#genderOutput {
+    color: #413d31;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#birthYearOutput {
+    color: #413d31;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#jobOutput {
+    color: #5e4f24;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
